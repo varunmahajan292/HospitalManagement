@@ -1,0 +1,105 @@
+
+/*-------------------*/
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+  max-height: 625px;
+}
+
+.nav .navbar-nav .login-btn{
+  color: #f4511e !important;
+  
+}
+
+#myNavbar .login-btn{
+      background-color: #ffffff;
+    
+    color: #f26033 !important;
+    
+    font-size: 14px;
+}
+
+.nav .navbar-nav li button{
+  border: 1px solid #fff !important;
+    background: #ffffff;
+    color: orange !important;
+    padding: 8px 12px;
+}
+
+#band button{
+  color: #ffffff;
+  background-color:  #f4511e;
+  border: 2px solid  #f4511e;;
+  padding: 5px 12px;
+}
+
+#band button:hover{
+  color: #f4511e;
+  background-color:  #ffffff;
+  border: 2px solid  #f4511e;
+  transition: 0.2s linear;
+}
+
+#band strong{
+ color: #f4511e;
+}
+
+#about-us h3{
+ text-align: center;
+}
+
+
+
+#about-us p{
+  text-align: justify;
+}
+
+.form-css{
+      width: 40%;
+    margin: auto;  
+    text-align: center;   
+}
+
+.custom-btn-css{
+      padding: 4px 16px;
+      font-size: 16px;
+      color: #ffffff;
+      background-color: #f56235;
+      border: 2px solid #f56235;
+}
+
+.custom-btn-css:hover{
+  color: #f56235;
+  background-color: #ffffff;
+  border: 2px solid #f56235;
+  transition: 0.2s linear;
+}
+
+.login-form{
+      padding: 155px 120px !important;
+}
+
+.login-form h3{
+  text-align: center;
+}
+
+.incorrect-u-or-p{
+  display: none;
+}
+
+.navbar li a, .navbar .navbar-brand{
+     
+}
+
+.navbar-custom .navbar-brand a{
+   color: #ffffff !important;
+
+}
+
+.welcome{
+  padding: 224px 120px !important;
+}
+.welcome h2{
+  text-align: center;
+  font-size: 50px;
+  color: #f56235;
+}
+
